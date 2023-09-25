@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csvConverter", "csvConverter\csvConverter.csproj", "{4775A307-CE86-4B0A-9CCD-06CCA116F5C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartInvoice", "SmartInvoice\SmartInvoice.csproj", "{67FF5FC7-DBCC-4640-B7CB-B3A2183A1C4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4775A307-CE86-4B0A-9CCD-06CCA116F5C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4775A307-CE86-4B0A-9CCD-06CCA116F5C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4775A307-CE86-4B0A-9CCD-06CCA116F5C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4775A307-CE86-4B0A-9CCD-06CCA116F5C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67FF5FC7-DBCC-4640-B7CB-B3A2183A1C4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67FF5FC7-DBCC-4640-B7CB-B3A2183A1C4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67FF5FC7-DBCC-4640-B7CB-B3A2183A1C4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67FF5FC7-DBCC-4640-B7CB-B3A2183A1C4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
